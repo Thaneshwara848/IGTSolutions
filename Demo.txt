@@ -28,17 +28,39 @@ Java-- 5 Days --- Fundamentals
 				: login 
 						user name 
 						user pass
-
+			cmd : to set the user name and email 
+				
+			Set your username and email globally 
+				Open the terminal
+		Set your username with: git config --global user.name "Your Name"
+		Set your email with   : git config --global user.email "your@example.com"
 
 		Create a Repository : 
 			git init
-			git add README.md
+			git add .
 			git commit -m "first commit"
 			git branch -M main
 			git remote add origin https://github.com/Thaneshwara848/IGTSolutions.git
 			git push -u origin main
+	-----------------------------------------------------------------------
+			git add .
+			git commit -m  "second commit "
+			git push 
 
 
+
+		init 
+		commit 
+		add
+		push 
+		pull 
+		clone 
+		branch : create 
+		branmch : dlete 
+		bramch : merge 
+		stash 
+		log 
+		
 			
 
 		
