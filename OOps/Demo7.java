@@ -25,7 +25,7 @@ class A
 	{
 		System.out.println(l * b);
 	}
-}			1: 30 to 2: 20  lunch  break  
+}
 // same constructor name + mul times+ diff par+ same class : CO
 // same method name + mul times+ diff par+ same class : method over loding 
 class Demo7

@@ -5,7 +5,7 @@ class Clerk extends Emp
 {
 	Address a = new Address();
 }
-class Dev extends Emp
+class Dev extends Emp 
 {
 	Address a = new Address();// obj ref
 	void display()
