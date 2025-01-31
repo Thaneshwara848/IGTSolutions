@@ -73,16 +73,20 @@ Java-- 5 Days --- Fundamentals
 
 
 Ooops : 
-		Inheritance 
-		PolyMorphism 
-	
+		Inheritance  : Aquring the Property from parent to Child 
+		PolyMorphism : Many : Forms : same method but different beh 
+		Encupulation : Hiding the data into single unit 
+					Make all ther var as Private 
+					Setter / getter 
+					
+
 		packages : 
 			
-		Access modifier 
-			publicv 
-			private 
-			protected 
-			Default 
+			Access modifier 
+				publicv 
+				private 
+				protected 
+				Default 
 		
 		Non Access modifier 
 			Final : key words 
@@ -95,7 +99,77 @@ Ooops :
 
 			Abstract 
 
-			
+				key word
+					method 
+					class 
+				Hide the implememtion 
+				it will force you to override all the methods 
+		
+	
+	
+	
+	Class 					Abstarct Class 					Interface 
+
+1 ) class A{}					abstract class A{}				interface I{}
+
+2) A(){}					yes						No 
+
+3) int a;					yes 						no : int a=100;
+
+4) A a = new A();				No 						No 
+
+5) only non abstract methiods			both 						must be a abstract ,methods
+
+6) multiple inheritance is not allowd 		not 						yes 
+
+7) 0% abstraction bcz no abstact 		0-100%						100% ? it allows only abstract methods 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
